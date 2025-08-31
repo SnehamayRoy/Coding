@@ -1,0 +1,1 @@
+{"name":"Local: subsetnumk","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\subsetnumk.cpp","tests":[{"id":1754230082448,"input":"6 10\n2 3 5 16 8 10","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\subsetnumk.cpp","group":"local","local":true}

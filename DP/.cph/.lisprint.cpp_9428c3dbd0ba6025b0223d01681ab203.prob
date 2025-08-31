@@ -1,0 +1,1 @@
+{"name":"Local: lisprint","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\lisprint.cpp","tests":[{"id":1754194064524,"input":"9\n10 22 9 33 21 50 41 60 80","output":"10 22 33 50 60 80 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\lisprint.cpp","group":"local","local":true}

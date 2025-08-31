@@ -1,0 +1,1 @@
+{"name":"Local: validpalindrom","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\validpalindrom.cpp","tests":[{"id":1753507929016,"input":"{a+[b*(c-d)]}","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\validpalindrom.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: operator","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\operator.cpp","tests":[{"id":1753553032265,"input":"23+4*\n","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\operator.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: lcs","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\lcs.cpp","tests":[{"id":1754251646620,"input":"5\na b c d e\n3\na c e","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\lcs.cpp","group":"local","local":true}

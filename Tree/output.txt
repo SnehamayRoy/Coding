@@ -1,0 +1,43 @@
+Inserted 50
+Inserted 30
+Inserted 70
+Inserted 20
+Inserted 40
+Inserted 60
+Inserted 80
+Inserted 35
+Inserted 75
+Inserted 90
+Inserted 10
+Found40
+Not Found99
+Preorder: 50 30 20 10 40 35 70 60 80 75 90 
+Inorder: 10 20 30 35 40 50 60 70 75 80 90 
+Postorder: 10 20 35 40 30 60 75 90 80 70 50 
+Levelorder: 50 30 70 20 40 60 80 10 35 75 90 
+Height: 4
+Top view: 10 20 30 50 70 80 90 
+Bottom view: 10 20 35 60 75 80 90 
+Right view: 50 70 80 90 
+Left view: 50 30 20 10 
+Deleted70
+Preorder: 50 30 20 10 40 35 75 60 80 90 
+Inorder: 10 20 30 35 40 50 60 75 80 90 
+Postorder: 10 20 35 40 30 60 90 80 75 50 
+Levelorder: 50 30 75 20 40 60 80 10 35 90 
+Height: 4
+Top view: 10 20 30 50 75 80 90 
+Bottom view: 10 20 35 60 75 80 90 
+Right view: 50 75 80 90 
+Left view: 50 30 20 10 
+Deleted50
+Preorder: 60 30 20 10 40 35 75 80 90 
+Inorder: 10 20 30 35 40 60 75 80 90 
+Postorder: 10 20 35 40 30 90 80 75 60 
+Levelorder: 60 30 75 20 40 80 10 35 90 
+Height: 4
+Top view: 10 20 30 60 75 80 90 
+Bottom view: 10 20 35 40 75 80 90 
+Right view: 60 75 80 90 
+Left view: 60 30 20 10 
+Exited due to user command 13 

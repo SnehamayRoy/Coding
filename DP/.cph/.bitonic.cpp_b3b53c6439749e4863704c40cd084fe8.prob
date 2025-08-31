@@ -1,0 +1,1 @@
+{"name":"Local: bitonic","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\bitonic.cpp","tests":[{"id":1754208098118,"input":"7\n1 2 3 10 2 1 0\n","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\bitonic.cpp","group":"local","local":true}

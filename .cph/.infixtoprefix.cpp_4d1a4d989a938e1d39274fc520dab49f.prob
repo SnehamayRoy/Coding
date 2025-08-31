@@ -1,0 +1,1 @@
+{"name":"Local: infixtoprefix","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\infixtoprefix.cpp","tests":[{"id":1753539768218,"input":"(A+B)*(C-D)","output":"*+AB-CD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\infixtoprefix.cpp","group":"local","local":true}

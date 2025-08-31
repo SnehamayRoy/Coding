@@ -1,0 +1,1 @@
+{"name":"Local: prein","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\prein.cpp","tests":[{"id":1754816049603,"input":"5\n3 9 20 15 7\n9 3 15 20 7","output":"3 9 20 15 7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\prein.cpp","group":"local","local":true}

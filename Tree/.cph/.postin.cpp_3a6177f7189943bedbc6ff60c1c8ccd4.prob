@@ -1,0 +1,1 @@
+{"name":"Local: postin","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\Tree\\postin.cpp","tests":[{"id":1754884737971,"input":"5\n4 5 2 3 1\n4 2 5 1 3\n","output":"1 2 3 4 5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\Tree\\postin.cpp","group":"local","local":true}

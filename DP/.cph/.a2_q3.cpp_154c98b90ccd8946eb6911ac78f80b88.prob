@@ -1,0 +1,1 @@
+{"name":"Local: a2_q3","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\a2_q3.cpp","tests":[{"id":1754141735611,"input":"7 \n10 1 2 7 6 1 5 \n8 ","output":"1 1 6 \n1 2 5 \n1 7 \n2 6 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\DP\\a2_q3.cpp","group":"local","local":true}

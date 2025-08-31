@@ -1,0 +1,1 @@
+{"name":"Local: maxpathsum","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\Tree\\maxpathsum.cpp","tests":[{"id":1754799032371,"input":"20 9 -10 -1 -1 15 7 -1 -1 -1 -1\n\n","output":"-3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\Tree\\maxpathsum.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: topoDfs","url":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\Graph\\topoDfs.cpp","tests":[{"id":1756551211196,"input":"4 3\n0 1\n1 2\n2 3\n","output":"0 1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\IIT KGP\\1st_sem\\Computing Lab\\Coding\\Graph\\topoDfs.cpp","group":"local","local":true}
